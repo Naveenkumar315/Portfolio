@@ -7,7 +7,7 @@ const Footer = ({ isDarkMode }) => {
     <div className="mt-20 ">
       <div className="text-center">
         <Image
-          src={isDarkMode ? assets.logo_dark : assets.logo}
+          src={isDarkMode ? assets.logo_2 : assets.logo_1}
           alt=""
           className="w-36 mx-auto mb-2 "
         />

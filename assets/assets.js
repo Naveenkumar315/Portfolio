@@ -38,6 +38,8 @@ import right_arrow_bold_dark from "./right-arrow-bold-dark.png";
 // import profile_1 from "./profile_1.jpg";
 import profile_2 from "./profile_2.jpg";
 import profile_ from "./profile_.jpg";
+import logo_1 from "./logo_1.png";
+import logo_2 from "./logo_2.png";
 
 export const assets = {
   user_image,
@@ -80,6 +82,8 @@ export const assets = {
   // profile_1,
   profile_2,
   profile_,
+  logo_1,
+  logo_2,
 };
 
 export const workData = [
