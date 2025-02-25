@@ -44,7 +44,7 @@ const About = ({ isDarkMode }) => {
           <Image
             className="w-full rounded-3xl"
             alt="user"
-            src={assets.user_image}
+            src={assets.profile_}
           />
         </motion.div>
         <motion.div
